@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-
-##gemspec
+gem  'rails', '3.1.2'
+gemspec
 
 gem "rake"
 gem "yajl-ruby", :git => "git://github.com/brianmario/yajl-ruby.git"

@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gemspec
+##gemspec
 
 gem "rake"
-##gem "yajl-ruby", :git => "git://github.com/brianmario/yajl-ruby.git"
+gem "yajl-ruby", :git => "git://github.com/brianmario/yajl-ruby.git"
 
 group :production do
  
